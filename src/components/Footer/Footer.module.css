@@ -1,0 +1,10 @@
+footer {
+  max-width: 680px;
+}
+footer a {
+    text-decoration: none;
+    color: white;
+}
+footer a:hover {
+    color: #4ab6c2;
+}

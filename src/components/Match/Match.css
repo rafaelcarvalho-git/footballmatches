@@ -1,0 +1,20 @@
+.logo-time {
+  max-width: 80px;
+}
+.partida {
+  width: 300px;
+  width: 300px;
+}
+.pt {
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;   
+    cursor: pointer;
+}
+.pt:hover, .pt:focus, .pt:active {
+    -webkit-transform: scale(1.04);
+    transform: scale(1.04);
+}
